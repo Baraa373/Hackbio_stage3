@@ -1,6 +1,6 @@
 # Biomarker Prediction
 
-Authurs : Fatma Fathi AbdElhaleem (@Fatma Fathi), Mennatallah Hesham (@Menna), Esraa Ahmed (@EsZo), Baraa Alwaleed (@Baraa), Nooran Alharty (@Nooran\_Alharty), Yara Haitham (@Yarahaitham),Taha Kram (@Taha)
+Authors : Fatma Fathi AbdElhaleem (@Fatma Fathi), Mennatallah Hesham (@Menna), Esraa Ahmed (@EsZo), Braa Elwaleed Mohamed Ahmed  (@Baraa), Nooran Alharty (@Nooran\_Alharty), Yara Haitham (@Yarahaitham),Taha Kram (@Taha)
 
 Githup: [Script](https://github.com/nerdBarby/Hackbio_stage3.git) 
 
